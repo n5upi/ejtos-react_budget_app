@@ -31,6 +31,7 @@ const Budget = () => {
 
     return (
 
+
 <div className='alert alert-secondary' style={{ height: '5' }}>
 <span>
 Budget: {currency}
